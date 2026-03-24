@@ -1,0 +1,29 @@
+{
+  "base_price": 5.0,
+  "steps": [
+    { "id": "temp", "prompt": "Is the drink meant to be Hot or Cold?", "options": [
+      { "label": "Hot", "price": 0.0 }, { "label": "Cold", "price": 0.5 }
+    ]},
+    { "id": "isCoffee", "prompt": "Is this a Coffee drink?", "options": [
+      { "label": "Yes", "price": 0.0 }, { "label": "No", "price": 0.0 }
+    ]},
+    { "id": "type", "prompt": "What type of coffee?", "options": [
+      { "label": "Americano", "price": 1.0 }, { "label": "Macchiato", "price": 1.5 }, { "label": "Latte", "price": 1.5 }, { "label": "Mocha", "price": 2.0 }, { "label": "Cappuccino", "price": 1.5 }, { "label": "Frappuccino", "price": 2.5 }, { "label": "Affogato", "price": 3.0 }
+    ]},
+    { "id": "shots", "prompt": "How many shots of espresso?", "options": [
+      { "label": "Light (1 Shot - 30mL)", "price": 0.5 }, { "label": "Medium (2 Shots - 60mL)", "price": 1.0 }, { "label": "Strong (3 Shots - 90mL)", "price": 1.5 }, { "label": "None", "price": 0.0 }
+    ]},
+    { "id": "flavor", "prompt": "What flavor syrup?", "options": [
+      { "label": "Vanilla", "price": 0.0 }, { "label": "Hazelnut", "price": 0.0 }, { "label": "Caramel", "price": 0.0 }, { "label": "Chocolate", "price": 0.0 }, { "label": "Bubblegum", "price": 0.0 }, { "label": "Lavender", "price": 0.0 }, { "label": "Pistachio", "price": 0.0 }, { "label": "Toffee", "price": 0.0 }, { "label": "Pumpkin Spice", "price": 0.0 }, { "label": "Peppermint", "price": 0.0 }, { "label": "Honey", "price": 0.0 }, { "label": "Rose", "price": 0.0 }, { "label": "Cinnamon", "price": 0.0 }, { "label": "Coconut", "price": 0.0 }, { "label": "White Chocolate", "price": 0.0 }, { "label": "None", "price": 0.0 }
+    ]},
+    { "id": "flavor_shots", "prompt": "How many pumps of flavor?", "options": [
+      { "label": "Single Pump", "price": 0.5 }, { "label": "Double Pump", "price": 1.0 }, { "label": "Triple Pump", "price": 1.5 }
+    ]},
+    { "id": "size", "prompt": "What size?", "options": [
+      { "label": "Small", "price": 0.0 }, { "label": "Medium", "price": 1.5 }, { "label": "Large", "price": 3.0 }
+    ]},
+    { "id": "ice", "prompt": "How much ice?", "options": [
+      { "label": "No Ice", "price": 0.0 }, { "label": "One-Third", "price": 0.0 }, { "label": "Two-Third", "price": 0.0 }, { "label": "Full", "price": 0.0 }
+    ]}
+  ]
+}

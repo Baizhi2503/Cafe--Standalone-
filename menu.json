@@ -1,0 +1,230 @@
+{
+  "cafe_metadata": {
+    "name": "Akira's Star-View Lounge",
+    "theme": "Celestial Elegance",
+    "motto": "Where every sip is a trip to the stars."
+  },
+  "menu": {
+    "signature_hot_drinks": [
+      {"name": "1314 Eternal Latte", "desc": "Velvety espresso with rose-infused milk and edible silver leaf.", "prices": {"S": 4.5, "M": 5.25, "L": 6.0}},
+      {"name": "108 Zen Mocha", "desc": "Ceremonial matcha meeting dark cocoa in a timeless, balanced blend.", "prices": {"S": 4.75, "M": 5.5, "L": 6.25}},
+      {"name": "Caramel Cloud Macchiato", "desc": "Espresso topped with salted caramel drizzle like a sunset cloud.", "prices": {"S": 4.25, "M": 5.0, "L": 5.75}},
+      {"name": "Velvet Rose Cappuccino", "desc": "Silky foam dusted with dried organic rose petals.", "prices": {"S": 4.5, "M": 5.25, "L": 6.0}},
+      {"name": "Golden Honey Flat White", "desc": "Wildflower honey swirled into rich, micro-foamed milk.", "prices": {"S": 4.0, "M": 4.75, "L": 5.5}},
+      {"name": "Spiced Amber Americano", "desc": "A bold shot with hints of cinnamon and star anise.", "prices": {"S": 3.5, "M": 4.0, "L": 4.5}},
+      {"name": "Midnight Truffle Coffee", "desc": "Dark roast blended with savory black truffle cocoa.", "prices": {"S": 5.0, "M": 5.75, "L": 6.5}},
+      {"name": "Hazelnut Horizon", "desc": "Toasted hazelnuts meet a medium roast for a nutty finish.", "prices": {"S": 4.25, "M": 5.0, "L": 5.75}},
+      {"name": "Vanilla Bean Dream", "desc": "Creamy espresso speckled with real Madagascar vanilla bean.", "prices": {"S": 4.25, "M": 5.0, "L": 5.75}},
+      {"name": "Toasted Almond Cortado", "desc": "A powerful short drink with smoky charred almond notes.", "prices": {"S": 3.75, "M": 4.5, "L": 5.0}},
+      {"name": "Pistachio Praline Latte", "desc": "Sweet pistachio butter swirled into a caffeinated masterpiece.", "prices": {"S": 5.25, "M": 6.0, "L": 6.75}},
+      {"name": "Lavender Haze Mocha", "desc": "White chocolate and lavender for a dreamy, purple-hued sip.", "prices": {"S": 4.75, "M": 5.5, "L": 6.25}},
+      {"name": "Cardamom Comet", "desc": "A spicy, aromatic latte inspired by ancient spice routes.", "prices": {"S": 4.5, "M": 5.25, "L": 6.0}},
+      {"name": "Maple Moonrise", "desc": "Grade A maple syrup layered with dark, intense espresso.", "prices": {"S": 4.5, "M": 5.25, "L": 6.0}},
+      {"name": "Toffee Twilight", "desc": "Buttery toffee bits melted into a rich, steaming latte.", "prices": {"S": 4.5, "M": 5.25, "L": 6.0}}
+    ],
+    "signature_cold_drinks": [
+      {"name": "Frozen 1314 Espresso", "desc": "Blended espresso crystals that stay cold until the end of time.", "prices": {"S": 5.0, "M": 5.75, "L": 6.5}},
+      {"name": "Iced 108 Matcha Fusion", "desc": "Chilled matcha layered over espresso for a balanced energy boost.", "prices": {"S": 5.25, "M": 6.0, "L": 6.75}},
+      {"name": "Cold Brew Cascade", "desc": "Steeped for 24 hours and served over a single giant ice sphere.", "prices": {"S": 4.5, "M": 5.25, "L": 6.0}},
+      {"name": "Salted Caramel Iced Latte", "desc": "The perfect mix of sea salt, sweet caramel, and chilled milk.", "prices": {"S": 4.75, "M": 5.5, "L": 6.25}},
+      {"name": "White Choco Iced Mocha", "desc": "Silky white chocolate over ice, topped with whipped starlight.", "prices": {"S": 5.0, "M": 5.75, "L": 6.5}},
+      {"name": "Coconut Cream Cold Brew", "desc": "Tropical coconut milk foam floating atop our signature roast.", "prices": {"S": 5.25, "M": 6.0, "L": 6.75}},
+      {"name": "Brown Sugar Shaken Espresso", "desc": "Vigorously shaken for a frothy, caramelized texture.", "prices": {"S": 5.5, "M": 6.25, "L": 7.0}},
+      {"name": "Iced Irish Cream Coffee", "desc": "Non-alcoholic creaminess with a hint of toasted malt.", "prices": {"S": 4.75, "M": 5.5, "L": 6.25}},
+      {"name": "Minty Mocha Chill", "desc": "Fresh garden mint meets rich chocolate in a frosty glass.", "prices": {"S": 5.0, "M": 5.75, "L": 6.5}},
+      {"name": "Berry Blitz Iced Coffee", "desc": "A surprising pop of muddled berries in a bright, acidic brew.", "prices": {"S": 5.25, "M": 6.0, "L": 6.75}},
+      {"name": "Iced Peppermint Patty", "desc": "Cooling peppermint and dark chocolate shards over ice.", "prices": {"S": 5.0, "M": 5.75, "L": 6.5}},
+      {"name": "Tiramisu Iced Latte", "desc": "Mascarpone flavored milk layered with espresso and cocoa.", "prices": {"S": 5.5, "M": 6.25, "L": 7.0}},
+      {"name": "Chilled Chai Espresso", "desc": "Spicy black tea meets a double shot of espresso over ice.", "prices": {"S": 5.0, "M": 5.75, "L": 6.5}},
+      {"name": "Nitro Nebula", "desc": "Nitrogen-infused coffee for a naturally creamy, velvet pour.", "prices": {"S": 5.5, "M": 6.0, "L": 6.5}},
+      {"name": "Iced Honeycomb Latte", "desc": "Real honeycomb chunks melting into a chilled vanilla latte.", "prices": {"S": 5.5, "M": 6.25, "L": 7.0}}
+    ],
+    "fancy_hot_drinks": [
+      {"name": "Gold Leaf Cappuccino", "desc": "Luxury in a cup, topped with 24k edible gold flakes.", "prices": {"S": 8.0, "M": 9.5, "L": 11.0}},
+      {"name": "Saffron Silk Latte", "desc": "Rare saffron threads give this drink a royal yellow glow.", "prices": {"S": 7.5, "M": 8.75, "L": 10.0}},
+      {"name": "Smoked Cinnamon Mocha", "desc": "Served under a glass dome filled with applewood smoke.", "prices": {"S": 6.5, "M": 7.5, "L": 8.5}},
+      {"name": "Rose Quartz Macchiato", "desc": "A pink-hued delight that tastes like a sweet, floral hug.", "prices": {"S": 7.0, "M": 8.0, "L": 9.0}},
+      {"name": "Dark Forest Espresso", "desc": "Cherry syrup and dark chocolate shavings; dessert in a shot.", "prices": {"S": 6.0, "M": 7.0, "L": 8.0}},
+      {"name": "Ruby Velvet Latte", "desc": "Made with rare ruby cocoa for a naturally tart kick.", "prices": {"S": 7.0, "M": 8.0, "L": 9.0}},
+      {"name": "Maple Pecan Reserve", "desc": "Small-batch maple syrup and toasted pecan butter.", "prices": {"S": 6.5, "M": 7.5, "L": 8.5}},
+      {"name": "Crème Brûlée Coffee", "desc": "Topped with a sugar crust that you can crack with a spoon.", "prices": {"S": 7.5, "M": 8.5, "L": 9.5}},
+      {"name": "Black Diamond Mocha", "desc": "Activated charcoal and intense 90% cacao blend.", "prices": {"S": 7.0, "M": 8.0, "L": 9.0}},
+      {"name": "Tahitian Vanilla Breve", "desc": "The richest cream steamed with rare Tahitian vanilla.", "prices": {"S": 7.5, "M": 8.5, "L": 9.5}}
+    ],
+    "fancy_cold_drinks": [
+      {"name": "Galaxy Iced Latte", "desc": "A nebula of butterfly pea tea and espresso swirling together.", "prices": {"S": 8.5, "M": 9.75, "L": 11.0}},
+      {"name": "Sparkling Espresso Tonic", "desc": "Fizzy, botanical, and incredibly refreshing under the sun.", "prices": {"S": 7.0, "M": 8.0, "L": 9.0}},
+      {"name": "Blueberry Bliss Iced Mocha", "desc": "A fruity twist on a classic, layered for a beautiful gradient.", "prices": {"S": 7.5, "M": 8.5, "L": 9.5}},
+      {"name": "Cloud Top Cold Brew", "desc": "Cold brew capped with a thick, salted vanilla foam layer.", "prices": {"S": 8.0, "M": 9.0, "L": 10.0}},
+      {"name": "Charcoal Velvet Iced Latte", "desc": "Activated charcoal gives this a sleek, black aesthetic.", "prices": {"S": 7.5, "M": 8.5, "L": 9.5}},
+      {"name": "Holographic Vanilla Chill", "desc": "Edible glitter makes this drink shimmer like the stars.", "prices": {"S": 8.5, "M": 9.5, "L": 10.5}},
+      {"name": "Orchid Infused Iced Coffee", "desc": "Light, airy, and perfumed with the scent of wild orchids.", "prices": {"S": 8.0, "M": 9.0, "L": 10.0}},
+      {"name": "Peach Blossom Cold Brew", "desc": "A sweet, stone-fruit finish to our smoothest cold brew.", "prices": {"S": 7.0, "M": 8.0, "L": 9.0}},
+      {"name": "Iced Baklava Latte", "desc": "Honey, pistachio, and cinnamon milk with a cold espresso kick.", "prices": {"S": 8.5, "M": 9.5, "L": 10.5}},
+      {"name": "Lunar Lemon Espresso", "desc": "A sharp, citrusy cold brew with a lemon-zest infused foam.", "prices": {"S": 7.5, "M": 8.5, "L": 9.5}}
+    ],
+    "coolers": [
+      {"name": "Electric Lemonade", "desc": "Neon blue and tartly refreshing.", "price": 5.50},
+      {"name": "Sunset Spritz", "desc": "Orange and hibiscus layers.", "price": 6.00},
+      {"name": "Mojito Mint Cooler", "desc": "Fresh lime and muddled garden mint.", "price": 5.50},
+      {"name": "Passionfruit Punch", "desc": "Tropical intensity in a glass.", "price": 6.50},
+      {"name": "Watermelon Wave", "desc": "Pure summer sweetness.", "price": 5.50},
+      {"name": "Blue Lagoon", "desc": "Curacao-style syrup with a fizzy finish.", "price": 6.00},
+      {"name": "Strawberry Fizz", "desc": "Sparkling water with fresh berry puree.", "price": 5.50},
+      {"name": "Pineapple Breeze", "desc": "Cooling tropical pineapple juice.", "price": 5.50},
+      {"name": "Cucumber Cooler", "desc": "The ultimate crisp, clean refresher.", "price": 5.00},
+      {"name": "Green Apple Zing", "desc": "Tart apple with a sparkling kick.", "price": 5.50},
+      {"name": "Mango Madness", "desc": "Thick mango nectar and soda.", "price": 6.50},
+      {"name": "Lychee Love", "desc": "Delicate, floral lychee over ice.", "price": 6.50},
+      {"name": "Grapefruit Glow", "desc": "Bitter-sweet grapefruit tonic.", "price": 6.00},
+      {"name": "Wild Berry Blast", "desc": "A mix of four mountain berries.", "price": 6.00},
+      {"name": "Kiwi Kick", "desc": "Zesty green kiwi with lime.", "price": 5.50},
+      {"name": "Peach Pleaser", "desc": "Soft peach nectar and bubbles.", "price": 5.50},
+      {"name": "Pomegranate Pop", "desc": "Antioxidant-rich and tart.", "price": 6.50},
+      {"name": "Tropical Twist", "desc": "Guava, pineapple, and orange blend.", "price": 6.00},
+      {"name": "Cranberry Crush", "desc": "Sharp cranberry over crushed ice.", "price": 5.50},
+      {"name": "Hibiscus Chill", "desc": "Floral iced tea cooler.", "price": 6.50}
+    ],
+    "shakes_and_frappes": [
+      {"name": "Classic Oreo Shake", "desc": "Vanilla cream and chocolate cookies.", "price": 7.00},
+      {"name": "Death by Chocolate", "desc": "Triple chocolate explosion.", "price": 8.00},
+      {"name": "Strawberry Shortcake Frappe", "desc": "Berries and biscuit crumble.", "price": 7.50},
+      {"name": "Caramel Popcorn Shake", "desc": "Sweet, salty, and crunchy.", "price": 8.50},
+      {"name": "Matcha Madness Frappe", "desc": "Icy green tea bliss.", "price": 7.50},
+      {"name": "Nutella Nut Frappe", "desc": "Hazelnut chocolate goodness.", "price": 8.00},
+      {"name": "Birthday Cake Shake", "desc": "Akira’s favorite—with sprinkles!", "price": 9.00},
+      {"name": "Peanut Butter Power", "desc": "Creamy PB and chocolate protein.", "price": 8.00},
+      {"name": "Red Velvet Frappe", "desc": "Cocoa-beet blend with cream cheese.", "price": 8.50},
+      {"name": "Mango Cream Shake", "desc": "Fresh mango and heavy cream.", "price": 7.50},
+      {"name": "Cotton Candy Frappe", "desc": "Sugar-spun sky in a cup.", "price": 8.00},
+      {"name": "Espresso Toffee Frappe", "desc": "For the coffee-loving sweet tooth.", "price": 8.50},
+      {"name": "Mint Choco Chip Shake", "desc": "Cool mint and dark chips.", "price": 7.00},
+      {"name": "Banana Bonanza", "desc": "Real banana and honey blend.", "price": 7.00},
+      {"name": "Unicorn Sparkle Shake", "desc": "Multi-colored magic and glitter.", "price": 9.50}
+    ],
+    "snacks": {
+      "sandwiches": [
+        {"name": "Skyline Club", "desc": "Triple decker with turkey and bacon.", "price": 10.5},
+        {"name": "Pesto Caprese", "desc": "Mozzarella, tomato, and fresh pesto.", "price": 9.5},
+        {"name": "Spicy Tuna Melt", "desc": "Zesty tuna with melted cheddar.", "price": 10.0},
+        {"name": "Philly Steak Wrap-Sandwich", "desc": "Shaved beef and peppers.", "price": 11.5},
+        {"name": "Garden Veggie", "desc": "Hummus, sprouts, and crisp veggies.", "price": 8.5}
+      ],
+      "pizzas": [
+        {"name": "Margherita Star", "desc": "Basil and buffalo mozzarella.", "prices": {"S": 10.0, "M": 12.0, "L": 15.0}},
+        {"name": "Pepperoni Planet", "desc": "Loaded with spicy pepperoni.", "prices": {"S": 12.0, "M": 14.0, "L": 17.0}},
+        {"name": "BBQ Comet", "desc": "Chicken, red onion, and smoky sauce.", "prices": {"S": 13.0, "M": 15.0, "L": 18.0}},
+        {"name": "Hawaiian Heat", "desc": "Pineapple, ham, and jalapeños.", "prices": {"S": 12.0, "M": 14.0, "L": 17.0}},
+        {"name": "Veggie Galaxy", "desc": "Every garden veggie we have.", "prices": {"S": 11.0, "M": 13.0, "L": 16.0}},
+        {"name": "Meat Meteor", "desc": "Bacon, sausage, and beef ham.", "prices": {"S": 14.0, "M": 16.0, "L": 19.0}},
+        {"name": "Truffle Moon", "desc": "White sauce and truffle oil.", "prices": {"S": 16.0, "M": 18.0, "L": 21.0}}
+      ],
+      "burgers": [
+        {"name": "The Big Bang", "desc": "Double patty with secret sauce.", "price": 14.0},
+        {"name": "Lunar Cheese", "desc": "Classic cheeseburger with a twist.", "price": 11.0},
+        {"name": "Spicy Supernova", "desc": "Ghost pepper cheese and aioli.", "price": 12.5},
+        {"name": "Mushroom Nebula", "desc": "Swiss cheese and sautéed fungi.", "price": 12.0},
+        {"name": "Solar Veggie", "desc": "Plant-based patty with avocado.", "price": 11.5},
+        {"name": "Bacon Blackhole", "desc": "Wrapped in bacon and deep fried.", "price": 15.0}
+      ],
+      "wraps": [
+        {"name": "Chicken Caesar", "desc": "Romaine and grilled chicken.", "price": 9.0},
+        {"name": "Greek Goddess", "desc": "Feta, olives, and hummus.", "price": 8.5},
+        {"name": "Buffalo Blast", "desc": "Spicy chicken and ranch.", "price": 9.5},
+        {"name": "Thai Peanut", "desc": "Crunchy veg and satay sauce.", "price": 9.0},
+        {"name": "Breakfast Burrito", "desc": "Eggs, beans, and salsa.", "price": 10.0}
+      ],
+      "pasta": [
+        {"name": "Starlight Alfredo", "desc": "White creamy garlic sauce.", "price": 13.0},
+        {"name": "Penne Arrabbiata", "desc": "Spicy tomato and chili.", "price": 12.0},
+        {"name": "Cosmic Carbonara", "desc": "Egg-based sauce with guanciale.", "price": 14.5},
+        {"name": "Pesto Pasta", "desc": "Basil, pine nuts, and parmesan.", "price": 13.5},
+        {"name": "Mac 'n' Cheese", "desc": "Four cheeses and breadcrumbs.", "price": 11.0}
+      ],
+      "ramen": [
+        {"name": "Shoyu Sky", "desc": "Soy-based broth with bamboo.", "price": 14.0},
+        {"name": "Miso Moon", "desc": "Rich miso with corn and butter.", "price": 14.5},
+        {"name": "Tonkotsu Sun", "desc": "Creamy pork bone broth.", "price": 16.0},
+        {"name": "Spicy Kimchi", "desc": "Fermented kick with tofu.", "price": 15.0},
+        {"name": "Curry Ramen", "desc": "Thick curry-flavored soup.", "price": 15.5},
+        {"name": "Black Garlic Ramen", "desc": "Burnt garlic oil and egg.", "price": 16.0}
+      ],
+      "soups": [
+        {"name": "Tomato Basil", "desc": "Creamy and comforting.", "price": 6.5},
+        {"name": "Chicken Corn", "desc": "Hearty and thick.", "price": 7.5},
+        {"name": "Mushroom Cream", "desc": "Wild mushroom blend.", "price": 7.0},
+        {"name": "French Onion", "desc": "With a cheesy crouton top.", "price": 8.0},
+        {"name": "Minestrone", "desc": "Classic Italian veggie soup.", "price": 7.0},
+        {"name": "Pumpkin Spice Soup", "desc": "Seasonal and savory.", "price": 7.5},
+        {"name": "Clear Veggie", "desc": "Light and detoxifying.", "price": 6.0}
+      ],
+      "garlic_bread": [
+        {"name": "Classic Sticks", "desc": "Butter and parsley.", "price": 5.0},
+        {"name": "Cheese Loaded", "desc": "Mozzarella and cheddar blend.", "price": 6.5},
+        {"name": "Jalapeño Kick", "desc": "Spicy peppers and cheese.", "price": 6.75},
+        {"name": "Herb Butter", "desc": "Rosemary and thyme infused.", "price": 5.5},
+        {"name": "Cheesy Pesto", "desc": "Garlic bread with pesto swirl.", "price": 7.0}
+      ]
+    },
+    "desserts": {
+      "cheesecakes": [
+        {"name": "Classic NY", "desc": "Dense and creamy perfection.", "price": 7.5},
+        {"name": "Lotus Biscoff", "desc": "Caramelized cookie butter.", "price": 8.5},
+        {"name": "Blueberry Swirl", "desc": "Tangy berry marble.", "price": 8.0},
+        {"name": "Chocolate Marble", "desc": "Cocoa and vanilla mix.", "price": 8.0},
+        {"name": "Strawberry Field", "desc": "Topped with fresh glazed berries.", "price": 8.0}
+      ],
+      "pastries": [
+        {"name": "Black Forest", "desc": "Cherry and chocolate layers.", "price": 6.0},
+        {"name": "Red Velvet", "desc": "Classic cream cheese frosting.", "price": 6.5},
+        {"name": "Choco Fudge", "desc": "Rich, dark, and gooey.", "price": 7.0},
+        {"name": "Opera Cake", "desc": "Coffee-soaked almond layers.", "price": 7.5},
+        {"name": "Pineapple Gateau", "desc": "Light and tropical.", "price": 5.5}
+      ],
+      "croissants": [
+        {"name": "Butter Classic", "desc": "Flaky and golden.", "price": 4.0},
+        {"name": "Choco Filled", "desc": "Stuffed with dark ganache.", "price": 5.0},
+        {"name": "Almond Flaked", "desc": "Sweet almond paste filling.", "price": 5.5},
+        {"name": "Matcha Glazed", "desc": "Green tea icing.", "price": 6.0},
+        {"name": "Cheese & Ham", "desc": "Savory flaky goodness.", "price": 6.5}
+      ],
+      "cookies": [
+        {"name": "Choco Chip", "desc": "Oversized and gooey.", "price": 3.0},
+        {"name": "Double Choco", "desc": "Chocolate dough and chips.", "price": 3.5},
+        {"name": "Oatmeal Raisin", "desc": "Chewy and cinnamon-spiced.", "price": 3.0},
+        {"name": "Red Velvet", "desc": "With white chocolate chips.", "price": 4.0},
+        {"name": "Macadamia Nut", "desc": "White chocolate and nuts.", "price": 4.5}
+      ],
+      "pancakes": [
+        {"name": "Maple Classic", "desc": "Tall stack with syrup.", "price": 9.0},
+        {"name": "Berry Blast", "desc": "Mixed berries and cream.", "price": 10.5},
+        {"name": "Nutella Drizzle", "desc": "Smothered in hazelnut cocoa.", "price": 11.0},
+        {"name": "Banana Caramel", "desc": "Sliced bananas and toffee.", "price": 10.0},
+        {"name": "Honey Butter", "desc": "Simple and sweet.", "price": 9.0}
+      ],
+      "waffles": [
+        {"name": "Belgian Classic", "desc": "Deep pockets for syrup.", "price": 9.5},
+        {"name": "Choco Overload", "desc": "Chocolate batter and sauce.", "price": 11.0},
+        {"name": "Fruit Medley", "desc": "Topped with seasonal fruit.", "price": 10.5},
+        {"name": "Cookies & Cream", "desc": "Crushed Oreos and cream.", "price": 11.5},
+        {"name": "Savory Bacon", "desc": "Bacon bits and maple syrup.", "price": 12.0}
+      ]
+    },
+    "member_exclusive_combos": [
+      {"member": "Ronin", "name": "Ronin's Combo: The Silent Guardian", "items": "Biscoff Cheesecake / French Vanilla Milkshake", "desc": "A sophisticated pair for the quiet leader.", "price": 14.5},
+      {"member": "Mini", "name": "Mini's Combo: The Sweet Spark", "items": "Chocolate Cinnamon Roll / Berry Boba", "desc": "A playful explosion of sugar and spice.", "price": 12.0},
+      {"member": "Mecha", "name": "Mecha's Combo: The Tech Fuel", "items": "Shawarma / Oreo Shake", "desc": "High-energy sustenance for the gear-head.", "price": 15.0},
+      {"member": "Kevin", "name": "Kevin's Combo: The Heavy Hitter", "items": "Broasted Chicken Tenders", "desc": "Crispy, juicy, and straight to the point.", "price": 13.0},
+      {"member": "Sarae", "name": "Sarae's Combo: The Morning Sun", "items": "Fried Eggs / Fruit Juice", "desc": "Simple, fresh, and brightening any day.", "price": 9.0},
+      {"member": "Yazu", "name": "Yazu's Combo: The Noir Ritual", "items": "Takoyaki / Black Coffee", "desc": "The ultimate contrast of savory and bitter.", "price": 11.5},
+      {"member": "Miku", "name": "Miku's Combo: The Idol's Tea", "items": "Sushi / Black Tea", "desc": "Light, elegant, and perfectly balanced.", "price": 16.0},
+      {"member": "Nex", "name": "Nex's Combo: The Quick Snack", "items": "Pretzels / Banana Juice", "desc": "Salt and fruit; an underrated duo.", "price": 10.0},
+      {"member": "Rico", "name": "Rico's Combo: The Classic",	"items":	"Pizza / Coke",	"desc":"The undefeated champion of comfort food.",	"price":"15.5"},
+      {"member": "Timmy", "name": "Timmy's Combo: The Fizzy Slice", "items": "Pizza / Ginger Ale", "desc": "Sharp ginger meets a cheesy slice.", "price": 15.5},
+      {"member": "Finn", "name": "Finn's Combo: The Royal Feast", "items": "Chicken Parmesan / Fanta", "desc": "Hearty Italian fare with a citrus pop.", "price": 17.0},
+      {"member": "Skylar", "name": "Skylar's Combo: The Cali Dream",	"items":"Butter Chicken / Cali Float","desc":"Rich, creamy curry with a chilled finish.","price":"18.0"},
+      {"member": "Spoofers", "name": "Spoofers' Combo: The Pasta Party",	"items":"Pasta / Coke","desc":"Carb-loading for the next adventure.","price":"14.0"},
+      {"member": "Vann", "name":"Vann's Combo: The Steam Engine","items":"Ramen / Coke","desc":"Slurping hot noodles with a cold soda.","price":"16.5"}
+    ]
+  }
+}
